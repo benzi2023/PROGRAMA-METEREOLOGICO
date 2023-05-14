@@ -35,3 +35,5 @@ La versión gratuita de WeatherAPI.com puede tener ciertas limitaciones en térm
 Autor: Alvarez Benjamin
 API utilizada: WeatherAPI.com
 Siéntete libre de personalizar el README agregando más detalles, instrucciones de instalación adicionales, capturas de pantalla o cualquier otra información relevante.
+
+DEJE UN ARCHIVO .PY QUE USA TKINTER PARA ABRIR UNA VENTANA DONDE SE VISUALIZAN LOS RESULTADOS Y LA HORA ACTUAL. IREMOS AVANZANDO EN ELLO, ES BASICO
